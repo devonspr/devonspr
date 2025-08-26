@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm D</h1>
 <h3 align="center">Still Learning..</h3>
+<a href="https://wakatime.com/@05a58715-ea1c-43ca-8c49-7173d884ba13"><img src="https://wakatime.com/badge/user/05a58715-ea1c-43ca-8c49-7173d884ba13.svg" alt="Total time coded since Jan 15 2025" /></a>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

@@ -44,8 +44,7 @@ me = {
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
 
 </div>
 

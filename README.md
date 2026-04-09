@@ -4,6 +4,6 @@
 <p align="left">
 </p>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJhMDhtcXp1c2Fob3dlN3gzZ3d6aTd0ZTM1bmNlejVndDBzbTU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif" width="100" height="100">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJhMDhtcXp1c2Fob3dlN3gzZ3d6aTd0ZTM1bmNlejVndDBzbTU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif" width="800" height="800" >
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://www.svgrepo.com/show/374093/sql.svg" width="40" height="40"/><img src="https://www.svgrepo.com/show/373280/linux-opened.svg" width="40" height="40"/>

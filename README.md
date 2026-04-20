@@ -19,7 +19,7 @@ me = {
 
 ### 🛠️ Tools I'm Working With
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38"/>  <img src="https://www.svgrepo.com/show/374093/sql.svg" width="38" height="38"/>  <img src="https://www.svgrepo.com/show/373280/linux-opened.svg" width="38" height="38"/>  <img src="https://www.svgrepo.com/show/373589/excel.svg" width="38" height="38"/>  <img src="https://www.svgrepo.com/show/303549/google-analytics-1-logo.svg" width="38" height="38"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38"/>  <img src="https://www.svgrepo.com/show/374093/sql.svg" width="38" height="38"/><img src="https://www.svgrepo.com/show/373280/linux-opened.svg" width="38" height="38"/><img src="https://www.svgrepo.com/show/373589/excel.svg" width="38" height="38"/><img src="https://www.svgrepo.com/show/303549/google-analytics-1-logo.svg" width="38" height="38"/>
 
 ---
 
@@ -53,7 +53,5 @@ me = {
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJhMDhtcXp1c2Fob3dlN3gzZ3d6aTd0ZTM1bmNlejVndDBzbTU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sQcUntHVodrmyXRW0/giphy.gif" width="260"/>
 
 <br/><br/>
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00d9ff&labelColor=0D1117)
 
 </div>

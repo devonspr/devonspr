@@ -24,7 +24,7 @@ class Devvy:
     def __init__(self):
         self.status    = "Learning Data Analytics 📚"
         self.stack     = ["SQL", "Python", "Excel", "Linux"]
-        self.goal      = "Data Analyst → Machine Learning"
+        self.goal      = "idk"
         self.mindset   = "Mistakes are undocumented features"
         self.fun_fact  = "NULL is not an error, it's a mystery"
         # currently: writing queries and wondering why it still returns NULL
@@ -112,5 +112,4 @@ class Devvy:
 ---
 
 <div align="center">
-<sub>Made with ☕ and a lot of Stack Overflow</sub>
 </div>

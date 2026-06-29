@@ -7,9 +7,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devonspr&background=000000&border=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devonspr/devonspr/main/skills-bar.svg" width="600" />
-</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
 </p>

@@ -11,7 +11,7 @@
 </div>
 
 
-<h2 align="center"><a href="https://wakatime.com/@devonn">Track My Daily</a></h2>
+<p align="center"><a href="https://wakatime.com/@devonn">Track My Daily</a></p>
 
 <!--START_SECTION:waka-->
 

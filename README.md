@@ -10,8 +10,9 @@
 <div align="center">
 </div>
 
-
-<p align="center"><a href="https://wakatime.com/@devonn">track my activity here</a></p>
+<p align="center">
+  <a href="https://wakatime.com/@devonn"><img src="https://img.shields.io/badge/track%20my%20activity%20here-000000?style=for-the-badge&logo=wakatime&logoColor=white" /></a>
+</p>
 
 <!--START_SECTION:waka-->
 

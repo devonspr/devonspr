@@ -8,8 +8,6 @@
  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=10&pause=1000&color=ffffff&background=000000&center=true&vCenter=true&width=300&lines=you+like+being+lonely%3F;ngl,+lonely%27s+kinda+fun+tho;fun%3F;look+at+them;they+got+mad+friends+but...;still,+nobody+really+cares;why%3F;cause+they+ain%27t+bringing+nothing+to+the+table;people+don%27t+respect+zero+results;so+yeah,+I%27m+grinding+solo" /></p>
 
 <div align="center">
-  <img src="./profile/stats.svg" alt="profile">
-  <img src="./profile/top-langs.svg" alt="top-languages">
 </div>
 
 
